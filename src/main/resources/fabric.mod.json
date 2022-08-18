@@ -6,7 +6,7 @@
   "name": "Forgotten World Mod",
   "description": "Forgotten world guarded by Warden",
   "authors": [
-    "_se.ho"
+    "seho"
   ],
   "contact": {
     "homepage": "https://fabricmc.net/",
@@ -23,7 +23,7 @@
     ]
   },
   "mixins": [
-    "modid.mixins.json"
+    "forgotten_world.mixins.json"
   ],
 
   "depends": {
